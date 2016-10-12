@@ -5,18 +5,18 @@
     text-align: left;
   }
 
-  .gallery-01 ul {
+  .gallery-01-ul {
     margin: 0;
     padding: 0;
   }
 
-  .gallery-01 ul li {
+  .gallery-01-ul li {
     display: inline-block;
     margin: 0;
     padding: 0;
   }
 
-  .gallery-01 ul li a img{
+  .gallery-01-ul li a img{
     margin: 0 !important;
     padding: 0 !important;
   }
