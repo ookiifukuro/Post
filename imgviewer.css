@@ -20,3 +20,21 @@
     margin: 0 !important;
     padding: 0 !important;
   }
+ 
+  .gallery-02 {
+    display: inline-block;
+    margin: 0;
+    padding: 20px 10px;
+
+  }
+
+  .gallery-02-img {
+    background-color: #ffffff;
+    background-image: url(https://2.bp.blogspot.com/-B5BVnna_nBA/V_uQ5JriDhI/AAAAAAAAAGA/QnKj_JSl8bEBSOFKOGWLOB41_3E2XK4SwCEw/s1600/img.thm.sample.001-Chrysanthemum.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+        border: 1px dashed #e6e6e6;
+    color: #000000;
+    height: 150px;
+    width: 200px;
+  }
